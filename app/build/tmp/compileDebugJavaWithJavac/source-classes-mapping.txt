@@ -1,0 +1,7 @@
+com/example/lyricsfinderapp/BuildConfig.java
+ com.example.lyricsfinderapp.BuildConfig
+com/example/lyricsfinderapp/MainActivity.java
+ com.example.lyricsfinderapp.MainActivity
+ com.example.lyricsfinderapp.MainActivity$1
+ com.example.lyricsfinderapp.MainActivity$1$1
+ com.example.lyricsfinderapp.MainActivity$1$2
