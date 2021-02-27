@@ -1,5 +1,7 @@
 
-![LyricGithub](https://user-images.githubusercontent.com/62322907/109384108-a46d5b80-7910-11eb-9eee-b8e6d5f70e3a.png)
+<p align="center">
+  <img width="629" height="85" src="https://user-images.githubusercontent.com/62322907/109384108-a46d5b80-7910-11eb-9eee-b8e6d5f70e3a.png">
+</p>
 
 # Features
 * Lyrics - Shows the lyrics of the song you are listening to at the moment. 
