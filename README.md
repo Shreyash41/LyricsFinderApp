@@ -1,4 +1,7 @@
-# Features | LyricsFinderApp
+
+![LyricGithub](https://user-images.githubusercontent.com/62322907/109384108-a46d5b80-7910-11eb-9eee-b8e6d5f70e3a.png)
+
+# Features
 * Lyrics - Shows the lyrics of the song you are listening to at the moment. 
 * Type Artist Name and Song Name in Edit Text.
 * Search - Search for Lyrics by clicking button.
