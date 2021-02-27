@@ -15,4 +15,9 @@
 * Edit the different API keys.
 * cd to the root of the project and execute "$ gradle build"
 
-
+# Screenshot
+<p align="left">
+  <img width="300" height="500" src="https://user-images.githubusercontent.com/62322907/109385886-f5834c80-791c-11eb-801a-dd3eefd28597.gif">
+  <img width="300" height="500" src="https://user-images.githubusercontent.com/62322907/109385491-46de0c80-791a-11eb-86e9-60c087a253bd.jpg">
+  <img width="300" height="500" src="https://user-images.githubusercontent.com/62322907/109385532-8efd2f00-791a-11eb-8fe4-2257b220af37.jpg">
+</p>
